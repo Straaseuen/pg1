@@ -1,0 +1,16 @@
+body{
+    background-image: url('img/3d055ff3b48d4072e2cc44f50936b8e1.jpg');
+}
+#box{
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    width: 550px;
+    height: auto;
+    max-height: 1200px;
+}
+h1{
+    margin-left: 15px;
+}
+.dd{
+    font-size: 25px;
+}
