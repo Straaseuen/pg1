@@ -1,30 +1,28 @@
 body{
-    background-image: url('img/3d055ff3b48d4072e2cc44f50936b8e1.jpg');
-    font-family: Verdana;
+    background-image: url('back.jpeg');
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100vw 100vh;*/
 }
 header{
-    background-color: rgb(255, 214, 221);
+    background-color: white;
     text-align: center;
+    background-position: absolute;
+    opacity: 0.9;
+    font-family: sans-serif;
 }
 #h1{
-    font-size: 50px;
-}
-#srd{
-    max-width: 200px;
-    float: left;
-}
-#srd2{
-    max-width: 200px;
-    float: right;
+    font-size: 70px;
 }
 #sum{
-    background-color: rgb(255, 235, 243);
+    background-color: white;
+    height: fit-content;
     width: fit-content;
-    height: 150px;
+    margin-left: 25px;
+    opacity: 0.9;
+    font-family: sans-serif;
 }
-#h2{
-    margin-right: 20px;
-}
-.dd{
-    font-size: 20px;
+#ls{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
 }
