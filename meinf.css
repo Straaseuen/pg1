@@ -63,7 +63,7 @@ header{
         font-style: italic;
         text-decoration: underline;
 }
-#rpopis{
+.rpopis{
         padding-left: 5%;
         font-size: 25px;
         font-family: sans-serif;
