@@ -15,23 +15,26 @@ header{
     margin-bottom: 2px;
     height: 25px;
 }
-#nad{
-        font-size: 50px;
-        padding-bottom: 20px;
-}
 #dis{
         background-color: white;
-        margin-top: 30px;
+        margin-top: 20px;
         /* height: 250px;*/
         height: fit-content;
         opacity: 1;
-    }
+        padding: 10px;
+}
+#nad{
+        font-size: 50px;
+        padding-bottom: 20px;
+        font-family: sans-serif;
+        font-style: italic;
+}
 #ca{
         background-color: rgb(32, 32, 32);
         height: 90px;
         width: 350px;
         padding: 20px;
-        margin: 20px;
+        font-family: sans-serif;
 }
 #disic{
         height: 75px;
@@ -53,4 +56,15 @@ header{
         border-top-color: red;
         border-bottom-color: rgb(0, 123, 255);
         border-right-color: rgb(0, 123, 255);
+}
+#popis{
+        font-size: 50px;
+        font-family: sans-serif;
+        font-style: italic;
+        text-decoration: underline;
+}
+#rpopis{
+        padding-left: 5%;
+        font-size: 25px;
+        font-family: sans-serif;
 }
