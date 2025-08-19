@@ -57,14 +57,3 @@ header{
         border-bottom-color: rgb(0, 123, 255);
         border-right-color: rgb(0, 123, 255);
 }
-#popis{
-        font-size: 50px;
-        font-family: sans-serif;
-        font-style: italic;
-        text-decoration: underline;
-}
-.rpopis{
-        padding-left: 5%;
-        font-size: 25px;
-        font-family: sans-serif;
-}
